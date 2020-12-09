@@ -1,0 +1,7 @@
+{
+  "name": "GetData",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
